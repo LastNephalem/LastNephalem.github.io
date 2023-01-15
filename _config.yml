@@ -19,12 +19,11 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Test_Title                         # the main title
+title: Scorpion                         # the main title
 
-tagline: A text-focused Test_Title   # it will display as the sub-title
+tagline: Jiakai.Wu's NOTE 日常随笔                      # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description: 日常随笔                       # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
