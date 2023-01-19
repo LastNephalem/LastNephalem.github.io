@@ -36,8 +36,9 @@ $ bundle
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
 ## 本地编译
-bundle exec jekyll s # serve, server, s      Serve your site locally
-bundle exec jekyll s # serve, server, s      Serve your site locally
+> bundle exec jekyll s # serve, server, s      Serve your site locally
+
+> bundle exec jekyll s # serve, server, s      Serve your site locally
 
 ## License
 
