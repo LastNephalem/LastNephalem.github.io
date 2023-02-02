@@ -106,7 +106,7 @@ tags: [history, Elasticsearch, middleware, storage]
 （5）**Type**：逻辑上的数据分类，es 7.x中删除了type的概念  
 （6）**Index**：一类相同或者类似的doc，比如一个员工索引，商品索引。  
 
-&emsp;&emsp;**Shard分片：**  
+**Shard分片：**  
 1：一个index包含多个Shard，默认5P（6版本），默认每个P分配一个R，P的数量在创建索引的时候设置，如果想修改，需要重建索引。  
 2：每个Shard都是一个Lucene实例，有完整的创建索引的处理请求能力。  
 3：ES会自动在nodes上为我们做shard 均衡。  
