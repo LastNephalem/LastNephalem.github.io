@@ -2,7 +2,7 @@
 title: Springboot整合Mybatis
 date: 2023-01-19 14:14:15 +0800 
 categories: [java, spring, Mybatis]
-tags: [history, spring, mybatis, base_course] 
+tags: [history, spring, mybatis] 
 ---
 
 ### Springboot整合Mybatis

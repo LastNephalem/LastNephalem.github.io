@@ -1,8 +1,8 @@
 ---
 title: FIRST_POST_TEST
 date: 2023-01-15 13:14:15 +0800 
-categories: [TOP_LEVEL, SUB_LEVEL]
-tags: [tag_test] 
+categories: []
+tags: [] 
 ---
 
 ### 核心配置 
